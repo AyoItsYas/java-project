@@ -1,4 +1,4 @@
-# java-peoject
+# java-project
 
 ## Windows
 1. Download and install Eclipse JEE via https://www.eclipse.org/downloads/packages/ (version does not matter get the latest)
@@ -13,3 +13,6 @@
 $ yay -S eclipse-jee-bin git
 ```
 2. Continue from step 3 in windows instalation steps
+
+## Installing Additional Eclipse Plugins and Sofware
+![image](https://github.com/user-attachments/assets/3a775599-b027-4f8b-842c-8cf005a8360b)
